@@ -1,26 +1,21 @@
 <h1 align="center">
   <img src="https://img.icons8.com/color/96/000000/coding.png" alt="coding illustration"/><br>
-  Hey, I'm Saurabh Agrahari 👋<br>
-  Welcome to my GitHub Profile!
+  <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Saurabh+Agrahari+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/coding.png" alt="coding illustration"/><br>
-</p>
 
 <p align="center">A passionate CS undergrad.</p>
 
 ---
 
-## 👀 I’m interested in ...
+## 👀 I'm interested in ...
 - AI/ML
 - Web Development
 
-## 🌱 I’m currently learning ...
+## 🌱 I'm currently learning ...
 - Machine Learning 
 - Data Science
 
-## 💞️ I’m looking to collaborate on ...
+## 💞️ I'm looking to collaborate on ...
 - AI/ML projects
 - Open-source contributions
 - Web Development projects
