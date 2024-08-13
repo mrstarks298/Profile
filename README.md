@@ -22,7 +22,7 @@
 
 ## 📫 How to reach me ...
 - Personal Email: [saurabhagrahariiitjee2022@gmail.com](mailto:saurabhagrahariiitjee2022@gmail.com)
-- College Email: [su-23040@sitare.org](mailto:su-23040@sitare.org)
+
 
 ## 😄 Pronouns: ...
 - He/Him
