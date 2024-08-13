@@ -1,13 +1,11 @@
 <h1 align="center">
+  <img src="https://img.icons8.com/color/96/000000/coding.png" alt="coding illustration"/><br>
   Hey, I'm Saurabh Agrahari 👋<br>
   Welcome to my GitHub Profile!
 </h1>
 
 <p align="center">
-  <a href="https://mrstarks298.github.io/Profile/" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/coding.png" alt="coding illustration"/><br>
-    Click here to see my dynamic welcome message!
-  </a>
+  <img src="https://img.icons8.com/color/96/000000/coding.png" alt="coding illustration"/><br>
 </p>
 
 <p align="center">A passionate CS undergrad.</p>
